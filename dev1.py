@@ -1,2 +1,1 @@
-print(" My name is Developer1")
-print(" I am from Hyderabad")
+print("I am Dev 1 and I am from Hyderabad")
